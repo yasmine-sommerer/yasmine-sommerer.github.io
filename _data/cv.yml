@@ -1,0 +1,48 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yasmine Sommerer
+    - name: Date of Birth
+      value: 15th February 1993
+    - name: Languages
+      value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Graduation - Abitur
+      institution: Robert Bosch Gymnasium, Wendlingen, Germany
+      year: 2003 - 2012
+    - title: Bachelor of Science
+      institution: University of Lübeck, Lübeck, Germany
+      year: 2012 - 2015
+      description:
+        - Molecular Life Science
+    - title: Master of Science
+      institution: University of Lübeck, Lübeck, Germany
+      year: 2015 - 2018
+      description:
+        - Molecular Life Science
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: PhD Student
+      institution: Lübeck Interdisciplinary Platform of Genome Analytics, Lübeck, Germany
+      year: 2019.02 - 2022.06
+      description:
+        - Development of an automated workflow using Python programming and R to process and analyze genome-wide methylation profiles
+        - Investigation of epigenetic profiles associated with human aging and neurodegenerative diseases
+
+    - title: Jr. Online Marketing Manager (Social Media Advertising)
+      institution: bonprix HmbH
+      year: 2022.07 - 2023.05
+
+    - title: Online Marketing Manager (Social Media Advertising)
+      institution: bonprix HmbH
+      year: 2023.06 - 2024.03
+
+    - title: Online Marketing Manager (Paid Search)
+      institution: bonprix HmbH
+      year: 2024.04
