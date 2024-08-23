@@ -7,10 +7,23 @@
       value: 15th February 1993
     - name: Languages
       value: English, German
+    - name: Tech Stack
+      value: Python, SQL, R
 
 - title: Experience
   type: time_table
   contents:
+
+      - title: Online Marketing Manager (Paid Search)
+      institution: bonprix HmbH, Hamburg, Germany
+      year: 2024.04
+
+    - title: Tutor (part-time)
+      institution: Schülerhilfe, Lübeck, Germany
+      year: 2024.03
+      description:
+        - Tutoring school kids for all science subjects (maths, physics, chemistry, biology)
+  
     - title: Online Marketing Manager (Social Media Advertising)
       institution: bonprix HmbH, Hamburg, Germany
       year: 2023.05 - 2024.03
@@ -26,33 +39,7 @@
         - Development of an automated workflow using Python programming and R to process and analyze genome-wide methylation profiles
         - Investigation of epigenetic profiles associated with human aging and neurodegenerative diseases
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Master of Science
-      institution: University of Lübeck, Lübeck, Germany
-      year: 2015 - 2018
-      description:
-        - Molecular Life Science
-    - title: Bachelor of Science
-      institution: University of Lübeck, Lübeck, Germany
-      year: 2012 - 2015
-      description:
-        - Molecular Life Science
-    - title: Graduation - Abitur
-      institution: Robert Bosch Gymnasium, Wendlingen, Germany
-      year: 2003 - 2012
-
-- title: Part-Time Jobs
-  type: time_table
-  contents:
-    - title: Tutor
-      institution: Schülerhilfe, Lübeck, Germany
-      year: 2024.03
-      description:
-        - Tutoring school kids for all science subjects (maths, physics, chemistry, biology)
-
-    - title: Student helper
+      - title: Student helper
       institution: Lübeck Interdisciplinary Platform for Genome Analytics, Lübeck, Germany
       year: 2018.08 - 2019.01
       description:
@@ -70,36 +57,22 @@
       description:
         - Tutoring students in the practical courses for anorganic and organic chemistry
 
-
-- title: Scientific Projects
+- title: Education
   type: time_table
   contents:
-    - title: PhD Thesis
-      institution: Lübeck Interdisciplinary Platform for Genome Analytics, University of Lübeck, Germany
+    - title: Master of Science in Molecular Life Science
+      institution: University of Lübeck, Lübeck, Germany
+      year: 2015 - 2018
       description:
-        - Epigenome-wide Analyses of DNA-Methylation and Phenotypes Associated with Cognitive Aging and Alzheimer's Disease
-
-      - title: Master thesis
-      institution: Insititute of Physics, University of Lübeck, Germany
+        - Master thesis: Studies of structural rearrangements on NS34A from Classical Swine Fever Virus with single-molecule fluorescence experiments, Insititute of Physics, University of Lübeck, Germany
+        - Internship: Expression of Prosaposin fragments in <i>Escherichia coli</i> with subsequent crystallization trials, University Health Network, Toronto, Canada
+        - Internship: Isolation of mycobaterial, virulence-associated proteins from Mycobacterium tuberculosis using an expression system in Mycobacterium smegmatis, Institute of Physics, University of Lübeck, Germany
+        - Internship: Profiling of Neutrophilic Granulocytes from Asthma Patients with CellProfiler, Fraunhofer EMB, Lübeck, Germany
+    - title: Bachelor of Science in Molecular Life Science
+      institution: University of Lübeck, Lübeck, Germany
+      year: 2012 - 2015
       description:
-        - Studies of structural rearrangements on NS34A from Classical Swine Fever Virus with single-molecule fluorescence experiments    
-
-    - title: Internship
-      institution: University Health Network, Toronto, Canada
-      description:
-        - Expression of Prosaposin fragments in <i>Escherichia coli</i> with subsequent crystallization trials
-
-    - title: Internship
-      institution: Institute of Physics, University of Lübeck, Germany
-      description:
-        - Isolation of mycobaterial, virulence-associated proteins from Mycobacterium tuberculosis using an expression system in Mycobacterium smegmatis
-
-   - title: Internship
-      institution: Fraunhofer EMB, Lübeck, Germany
-      description:
-        - Profiling of Neutrophilic Granulocytes from Asthma Patients with CellProfiler
-  
-   - title: Bachelor Thesis
-      institution: Institute of Molecular Medicine, University of Lübeck, Germany
-      description:
-        - Establishment of a Protocol for Expression and Purification of Human Argonaute 3 Protein
+        - Bachelor thesis: Establishment of a Protocol for Expression and Purification of Human Argonaute 3 Protein
+    - title: Graduation - Abitur
+      institution: Robert Bosch Gymnasium, Wendlingen, Germany
+      year: 2003 - 2012
