@@ -6,9 +6,11 @@
     - name: Date of Birth
       value: 15th February 1993
     - name: Languages
-      value: English, German
+      value: German (native), English (C1), Mandarin (A2)
     - name: Tech Stack
       value: Python, SQL, R
+    - name: Software / Tools
+      value: Google Sheets, Microsoft Office Excel / Power Point
 
 - title: Experience
   type: time_table
