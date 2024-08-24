@@ -7,8 +7,8 @@
       value: 15th February 1993
     - name: Languages
       value: German (native), English (C1), Mandarin (A2)
-    - name: Tech Stack
-      value: Python, SQL, R
+    - name: Programming Languages
+      value: Python, SQL, R, PHP
     - name: Software / Tools
       value: Google Sheets, Microsoft Office Excel / Power Point
 
